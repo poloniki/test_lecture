@@ -1,2 +1,2 @@
-import numpy as np
-file = np.loadtxt('file.txt')
+import pandas as pd
+file = pd.read_csv('file.txt')
