@@ -1,2 +1,2 @@
 import pandas as pd
-file = pd.read_csv('file.txt')
+file2 = pd.read_csv('file.txt')
